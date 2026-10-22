@@ -1,0 +1,4 @@
+﻿.vscode/
+__pycache__/
+*.pyc
+Advanced_Computer_Vision/.git_backup/
